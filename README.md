@@ -2,11 +2,11 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Jeevan%20S%20M&fontAlign=50&fontAlignY=40&fontSize=58&desc=Senior%20Software%20Engineer%20•%20Full%20Stack%20Engineer%20•%20AWS%20Specialist&descAlign=50&descAlignY=62&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Jeevan%20S%20M&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=ffffff&desc=Senior%20Software%20Engineer%20•%20Full%20Stack%20Engineer%20•%20AWS%20Specialist&descAlign=50&descAlignY=62&descColor=ffffff&animation=fadeIn"
   />
 </p>
 
-<h1 align="center">Hey 👋, You're Listening into Jeevan's Port</h1>
+<h1 align="center">Hey, You're Listening into Jeevan's:Port</h1>
 
 <h3 align="center">
 🚀 Senior Software Engineer • Full Stack Engineer • Cloud & Backend Specialist
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Engineer;AWS+Cloud+Specialist;Backend+Architecture+Enthusiast;.NET+%7C+ReactJS+%7C+GoLang+%7C+Python" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=AWS;.+NET+Core;ReactJS;Python" 
+/>
 
 </div>
-
----
 
 <p align="center">
   <a href="https://github.com/Jeevanebi">
@@ -283,15 +283,23 @@ AI-powered platform designed to modernize agricultural management and land tradi
 
 ## 🌟 Language Statistics
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
   <img 
+    width="420"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeevanebi&theme=tokyonight"
   />
+</td>
 
+<td align="center">
   <img 
+    width="420"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeevanebi&theme=tokyonight"
   />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
