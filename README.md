@@ -1,6 +1,9 @@
-<!-- Dynamic Banner -->
+<!-- PREMIUM HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jeevan%20S%20M&fontAlign=50&fontAlignY=40&fontSize=55&desc=Senior%20Software%20Engineer%20|%20Full%20Stack%20Engineer%20|%20AWS%20Specialist&descAlign=50&descAlignY=60&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Jeevan%20S%20M&fontAlign=50&fontAlignY=40&fontSize=58&desc=Senior%20Software%20Engineer%20•%20Full%20Stack%20Engineer%20•%20AWS%20Specialist&descAlign=50&descAlignY=62&animation=fadeIn"
+  />
 </p>
 
 <h1 align="center">Hey 👋, You're Listening into Jeevan's Port</h1>
@@ -9,48 +12,103 @@
 🚀 Senior Software Engineer • Full Stack Engineer • Cloud & Backend Specialist
 </h3>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Engineer;AWS+Cloud+Specialist;Backend+Architecture+Enthusiast;.NET+%7C+ReactJS+%7C+GoLang+%7C+Python" />
+
+</div>
+
+---
+
 <p align="center">
   <a href="https://github.com/Jeevanebi">
     <img src="https://img.shields.io/github/followers/Jeevanebi?label=Followers&style=for-the-badge&color=blue" />
   </a>
 
-  <a href="https://github.com/Jeevanebi">
-    <img src="https://img.shields.io/github/stars/Jeevanebi?style=for-the-badge&color=yellow" />
-  </a>
-
   <img src="https://komarev.com/ghpvc/?username=Jeevanebi&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
+
+  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Engineer-orange?style=for-the-badge&logo=amazonaws" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="58%">
 
-```yaml
-Name: Jeevan S M
-Role: Senior Software Engineer
+```tsx
+class JeevanSM {
 
-Specialized In:
-  - Full Stack Development
-  - Backend Engineering
-  - AWS Cloud Architecture
-  - Microservices
-  - System Design
+  role = "Senior Software Engineer";
 
-Tech Stack:
-  - .NET / ASP.NET Core
-  - ReactJS
-  - AWS
-  - Python
-  - GoLang
+  specialization = [
+    "Full Stack Engineering",
+    "Backend Engineering",
+    "Cloud Architecture",
+    "Microservices",
+    "System Design"
+  ];
 
-Passionate About:
-  - Scalable Systems
-  - High Performance APIs
-  - DevOps & Automation
-  - UI/UX & Creative Designing
+  currentStack = {
+    backend: [
+      ".NET Core",
+      "GoLang",
+      "Python"
+    ],
+
+    frontend: [
+      "ReactJS",
+      "TypeScript",
+      "JavaScript"
+    ],
+
+    cloud: [
+      "AWS",
+      "Docker",
+      "Terraform"
+    ],
+
+    databases: [
+      "MSSQL",
+      "MongoDB",
+      "MySQL",
+      "ElasticSearch"
+    ]
+  };
+
+  currentlyBuilding() {
+    return [
+      "Enterprise Healthcare Platforms",
+      "Cloud Native Systems",
+      "Scalable APIs",
+      "Distributed Architectures"
+    ];
+  }
+
+  funFact() {
+    return "I blend engineering with creativity 🚀";
+  }
+}
+
+export default new JeevanSM();
 ```
+
+</td>
+
+<td width="42%">
+
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,7 +138,7 @@ Passionate About:
 
 ---
 
-## 🗄️ Databases & Search Engines
+## 🗄️ Databases & Search Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -88,7 +146,9 @@ Passionate About:
 
 <p align="left">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
 </p>
 
@@ -102,7 +162,9 @@ Passionate About:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white"/>
 </p>
 
@@ -111,23 +173,24 @@ Passionate About:
 # 💼 Professional Journey
 
 ## 🏢 Optum (UnitedHealth Group)
+
 ### Senior Software Engineer / Software Development Engineer
+
 📍 Chennai, India  
 📅 Oct 2024 – Present
 
-✨ Building enterprise healthcare systems used by NHS (UK)
-
 ### 🚀 Key Contributions
 
-- ⚡ Developed scalable systems using:
+- ⚡ Building enterprise healthcare systems used by NHS (UK)
+- 🏗️ Developing scalable cloud-native platforms using:
   - .NET Core
   - ReactJS
   - AWS
   - GoLang
 
-- 🔐 Reduced vulnerabilities by **98%**
-- 🚀 Improved invoicing performance by **90%**
-- ☁️ Modernized infrastructure with:
+- 🔐 Reduced security vulnerabilities by **98%**
+- 🚀 Improved invoicing efficiency by **90%**
+- ☁️ Modernized infrastructure using:
   - Terraform
   - GitHub Actions
   - AWS Cloud Services
@@ -135,7 +198,9 @@ Passionate About:
 ---
 
 ## 🏢 Gabriels Technology Solutions
+
 ### Senior Software Engineer
+
 📍 Madurai, India  
 📅 Jul 2021 – Oct 2024
 
@@ -147,12 +212,14 @@ Passionate About:
 - 🔍 Worked extensively with:
   - ElasticSearch
   - SQL
-  - .NET Framework/Core
+  - ASP.NET Framework/Core
 
 ---
 
 ## 🏢 Bulkyfoodz
+
 ### Full Stack Developer
+
 📍 Tamil Nadu, India  
 📅 Jun 2020 – Jul 2021
 
@@ -160,7 +227,8 @@ Passionate About:
 
 - 🛒 Developed B2B E-commerce Platform
 - 📱 Integrated PWA Mobile Applications
-- 💳 Payment Gateway Integration (CC Avenue)
+- 💳 Integrated CC Avenue Payment Gateway
+- ⚡ Worked across frontend & backend architecture
 
 ---
 
@@ -203,36 +271,46 @@ AI-powered platform designed to modernize agricultural management and land tradi
 
 # 📊 GitHub Analytics
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jeevanebi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevanebi&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevanebi&theme=tokyonight"
+  />
 </p>
 
 ---
 
-# ⚡ GitHub Streak
+## 🌟 Language Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeevanebi&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeevanebi&theme=tokyonight"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeevanebi&theme=tokyonight"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## ⚡ GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevanebi&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Jeevanebi&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanebi&theme=react-dark&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanebi&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
@@ -273,20 +351,14 @@ AI-powered platform designed to modernize agricultural management and land tradi
 
 # 🎵 Fun Fact
 
-> I love combining **Engineering + Creativity**
-> - from scalable backend systems to cinematic edits,
+> I love combining Engineering + Creativity 🚀  
+> - from scalable backend systems to cinematic edits,  
 > UI design, branding, and digital experiences.
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"
+  />
 </p>
